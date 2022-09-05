@@ -12,3 +12,4 @@ Los niveles de pobreza de Costa Rica han permanecido estancados por más de 4 d�
 
 Para este proyecto se utilizará la base de datos obtenidos en la encuesta nacional de hogares realizada en julio de 2021 (INEC 2021). Dicha encuesta concentra información del ingreso de los hogares, su distribución territorial y las características de estos. Se contemplan datos sobre vivienda, educación, el trabajo de las personas y las condiciones de trabajo, entre otros. Además, para 2021 el INEC agregó un módulo adicional con el objetivo de medir los impactos de la pandemia del COVID-19 en Costa Rica. La base de datos completa está disponible aca [Datos](https://github.com/mauroverssi/Proyecto-final-aprendizaje-no-supervisado/blob/main/Datos/ENAHO%202021.sav)
 
+## 
