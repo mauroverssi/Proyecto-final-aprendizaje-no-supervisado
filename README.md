@@ -1,7 +1,7 @@
 # Análisis de la clasificación de los hogares pobres en Costa Rica, según su grado de severidad de la pobreza
 1. [Resumen del proyecto](https://github.com/mauroverssi/Proyecto-final-aprendizaje-no-supervisado/blob/main/README.md#resumen-del-proyecto)
 2. [Datos](https://github.com/mauroverssi/Proyecto-final-aprendizaje-no-supervisado/blob/main/README.md#datos)
-3. [Descripción detallada de la base de datos](https://github.com/mauroverssi/Proyecto-final-aprendizaje-no-supervisado/blob/main/README.md#Descripción detallada de los datos)
+3. [Descripción detallada de la base de datos](https://github.com/mauroverssi/Proyecto-final-aprendizaje-no-supervisado/blob/main/README.md#descripci%C3%B3n-detallada-de-los-datos)
 
 
 
