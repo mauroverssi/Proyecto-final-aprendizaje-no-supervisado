@@ -2,7 +2,7 @@
 1. [Resumen del proyecto](https://github.com/mauroverssi/Proyecto-final-aprendizaje-no-supervisado/blob/main/README.md#resumen-del-proyecto)
 2. [Datos](https://github.com/mauroverssi/Proyecto-final-aprendizaje-no-supervisado/blob/main/README.md#datos)
 3. [Descripción detallada de la base de datos](https://github.com/mauroverssi/Proyecto-final-aprendizaje-no-supervisado/blob/main/README.md#descripci%C3%B3n-detallada-de-los-datos)
-
+4. [Propuesta inicial de Proyecto Final](https://github.com/mauroverssi/Proyecto-final-aprendizaje-no-supervisado/blob/main/README.md#propuesta-incial-de-proyecto-final)
 
 
 
