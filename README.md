@@ -15,7 +15,7 @@ Para este proyecto se utilizará la base de datos obtenidos en la encuesta nacio
 
 ## Descripción detallada de los datos
 
-En este [Notebook](https://github.com/mauroverssi/Proyecto-final-aprendizaje-no-supervisado/blob/main/Notebooks/Proyecto%20-%20Revision%20datos1.ipynb) pueden encontrar una la descripción detallada de la base datos. 
+En este [Notebook](https://github.com/mauroverssi/Proyecto-final-aprendizaje-no-supervisado/blob/main/Notebooks/Proyecto%20-%20Revision%20datos.ipynb) pueden encontrar una la descripción detallada de la base datos. 
 
 ##  Propuesta incial de Proyecto Final
 
